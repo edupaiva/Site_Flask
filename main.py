@@ -14,7 +14,7 @@ cidade3 = cidade('Salvador',"Rua X, n 40")
 cidade4 = cidade('São Paulo',"Rua X, n 40")
 cidade5 = cidade('Rio de Janeiro',"Rua X, n 40")
 cidade6 = cidade('Porto Alegre',"Rua X, n 40")
-cidade7 = cidade('Manaus',"Rua X, n 40")
+
 
 cidades = [cidade1,cidade2, cidade3,cidade4 , cidade5,cidade6 ]
 
