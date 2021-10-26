@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Python | Learn Flash to make out site
 
-You can use the [editor on GitHub](https://github.com/edupaiva/Site_Flask/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Flask is a small web framework written in **Python**. It's classified as a microframework because it doesn't require particular tools or libraries, keeping a simple yet extensible core. It has no database abstraction layer, form validation or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. There are extensions to object-relational mappers, form validation, upload handling, various open authentication technologies, and several common framework-related tools. 
 
 ### Markdown
 
